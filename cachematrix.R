@@ -1,4 +1,4 @@
-## The purpose of these functions are to cache the inverse of a matrix
+## The purpose of these functions are to caculate the inverse of a matrix and cache it
 
 ## The first function creates a matrix object which is a list containing a function to:
 ## 1) set the matrix, 2) get the matrix, 3) set the inverse matrix, and 4) get the inverse matrix
